@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+title: Wu Wenqi
+description: IBI1 Student · ZJE Institute
+theme: jekyll-theme-cayman
+
+author:
+  name: Wu Wenqi
+
+plugins:
+  - jekyll-seo-tag
