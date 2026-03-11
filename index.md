@@ -15,23 +15,22 @@ I'm interested in computational biology, data analysis, and building things with
 
 <div class="card">
   <strong>IBI1 — Introduction to Bioinformatics 1</strong><br>
-  Topics: Python programming · Git & version control · Unix command line · Data analysis
 </div>
 
 ---
 
 ### Interests
 
+<span class="badge">🎵 Music</span>
 <span class="badge">🍵 Tea</span>
-<span class="badge">📚 Reading</span>
+<span class="badge">🎮 Gaming</span>
+<span class="badge">✈️ Travelling</span>
 <span class="badge">🧬 Bioinformatics</span>
 <span class="badge">💻 Programming</span>
-<span class="badge">🎵 Music</span>
-<span class="badge">🏔️ Hiking</span>
 
 ---
 
 ### Links
 
-- 🏫 [ZJE Institute](https://zje.zju.edu.cn/zje/main.htm)
-- 💻 [GitHub](https://github.com/WuWenqi-ZJE)
+- [ZJE Institute](https://zje.zju.edu.cn/zje/main.htm)
+- [GitHub](https://github.com/WuWenqi-ZJE)
